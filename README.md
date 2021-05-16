@@ -21,7 +21,7 @@ Clone the repository.
 
     npm install
 
-    *node vaccine.js* <PIN> <true|false> <URL>
+    node vaccine.js <PIN> <true|false> <URL>
 
 
 
