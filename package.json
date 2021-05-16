@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "https": "^1.0.0"
+  }
+}
