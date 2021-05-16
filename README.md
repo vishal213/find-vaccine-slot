@@ -15,8 +15,8 @@ If not installed, use [this link](https://nodejs.org/en/download/)
 Once node is installed, follow below:
 
 
-Clone the repository.
-
+    git clone https://github.com/vishal213/find-vaccine-slot.git
+    
     cd find-vaccine-slot
 
     npm install
