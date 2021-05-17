@@ -35,4 +35,11 @@ Argument 3 = If you want to play song, paste URL of song here, youtube or someth
 
 You can run more than one instances of above to track slots at multiple PIN codes. If you're not running any song on slot detection, keep an eye on terminal output which is updated every 10 seconds.
 
+Example Runs:
+
+node vaccine.js 125001
+
+node vaccine.js 125001 true
+
+node vaccine.js 125001 true https://www.youtube.com/watch?v=Ev42bToEkDQ
 
