@@ -43,3 +43,6 @@ node vaccine.js 125001 true
 
 node vaccine.js 125001 true https://www.youtube.com/watch?v=Ev42bToEkDQ
 
+OUTPUT:
+
+![Screenshot](https://user-images.githubusercontent.com/25406861/118475288-b1d4fd80-b729-11eb-8fd2-bf4177225c79.png)
